@@ -14,11 +14,20 @@ Date: August 14,2021
 # Waveform[READING]:
 ![read](https://user-images.githubusercontent.com/87559347/129466378-5e9abc88-6936-4518-991d-77ef2b3dd21a.png)
 
-# TASK:  
-This project implemented a fifo with separate clock domains for read and write. Specs are:    
+# About:  
+This project implemented a FIFO with separate clock domains for read and write(i.e. Asynchronous FIFO).  
+Specs are:    
 * Reconfigurable memory width and depth
 * Infers block ram resource of the FPGA
 * Provides data count of the words available for reading. Sync to either read/write clock domains
 * Read mode is First-Word Fall-Through
 * Reset type is asynchronous
 
+# Donate   
+Support these open-source projects by donating  
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=GBJQGJNCJZVRU)
+
+
+# Inquiries  
+Connect with me at my linkedin: https://www.linkedin.com/in/angelo-jacobo/
